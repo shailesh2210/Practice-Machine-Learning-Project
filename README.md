@@ -1,10 +1,16 @@
-# Practice-Machine-Learning-Project
+# Practice-Machine-Learning-Project-in-Process
 
 1. Create Environment
-- conda create -p env python==3.11 -y
+```javascript
+conda create -p env python=3.11 -y
+```
 
 2. Activate Environment
-- Conda activate env/
+```javascript
+conda activate env/
+```
 
 3. Install requirements.txt
-- pip install -r requirements.txt
+```javascript
+pip install -r requirements.txt
+```
