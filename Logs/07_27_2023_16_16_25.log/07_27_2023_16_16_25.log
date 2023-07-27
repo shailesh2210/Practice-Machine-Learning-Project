@@ -1,0 +1,8 @@
+[ 2023-07-27 16:16:25,609] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-27 16:16:25,609] 187 werkzeug - INFO -  * Debugger PIN: 198-339-862
+[ 2023-07-27 16:16:32,649] 16 root - INFO - Error occur in script name [D:\Practice-Machine-Learning-Project\exception.py]
+        at try block line number [13]
+        Exception Block line number[15] 
+        and error message [we are testing Exxception Handling]
+[ 2023-07-27 16:16:32,649] 17 root - INFO - Logging as started!
+[ 2023-07-27 16:16:32,649] 187 werkzeug - INFO - 127.0.0.1 - - [27/Jul/2023 16:16:32] "GET / HTTP/1.1" 200 -

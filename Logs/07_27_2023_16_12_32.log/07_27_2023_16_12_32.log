@@ -1,0 +1,3 @@
+[ 2023-07-27 16:12:32,148] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-27 16:12:32,156] 187 werkzeug - INFO -  * Debugger PIN: 198-339-862
+[ 2023-07-27 16:12:35,269] 187 werkzeug - INFO -  * Detected change in 'd:\\practice-machine-learning-project\\exception.py', reloading
